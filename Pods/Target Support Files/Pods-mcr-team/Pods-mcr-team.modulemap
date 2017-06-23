@@ -1,0 +1,6 @@
+framework module Pods_mcr_team {
+  umbrella header "Pods-mcr-team-umbrella.h"
+
+  export *
+  module * { export * }
+}
